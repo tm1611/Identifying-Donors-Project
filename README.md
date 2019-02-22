@@ -1,2 +1,2 @@
-# finding-donors
-finding donors using supervised learning methods
+# identifying-donors
+finding individuals earning >= 50k as potential donors using supervised learning methods.
