@@ -1,2 +1,2 @@
 # Identifying-donors
-finding individuals earning >= 50k as potential donors using supervised learning methods.
+Supervised Learning Project to identify individuals earning >= 50k based on census data.
